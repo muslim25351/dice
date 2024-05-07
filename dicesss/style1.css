@@ -1,0 +1,27 @@
+body{
+    background-color:#393E46 ;
+    text-align: center;
+}
+h1{
+    font-size: 6rem;
+    color: #DBA821;
+}
+.first{
+    font-size: 2.4rem;
+    display:inline-block;
+    color: #A591FA;
+   padding: 10px;
+
+}
+#fi{
+    height: 140px;
+    width: 130px;
+}
+#se{
+    height: 140px;
+    width: 130px;
+}
+footer{
+    font-size: 1.4rem;
+    color: cornflowerblue;
+}
